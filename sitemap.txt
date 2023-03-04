@@ -1,6 +1,10 @@
 http://example.com/2023/01/14/hello-world/
 http://example.com/tags/index.html
 http://example.com/categories/index.html
+http://example.com/2023/03/03/spring5/spring5_%E7%AC%AC4%E9%83%A8%E5%88%86_%E4%BA%8B%E5%8A%A1%E6%93%8D%E4%BD%9C/
+http://example.com/2023/03/03/spring5/spring5_%E7%AC%AC3%E9%83%A8%E5%88%86_JDBC/
+http://example.com/2023/03/03/spring5/spring5_%E7%AC%AC2%E9%83%A8%E5%88%86_AOP/
+http://example.com/2023/03/03/spring5/spring5_%E7%AC%AC1%E9%83%A8%E5%88%86_IOC/
 http://example.com/
 http://example.com/tags/node-js-hexo/
 http://example.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/
